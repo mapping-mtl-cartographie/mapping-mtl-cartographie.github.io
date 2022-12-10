@@ -1,9 +1,4 @@
-url: "https://mapping-mtl-cartographie.github.io" 
-# the base hostname & protocol for your site, e.g. http://example.com
-
-baseurl: "" 
-# the subpath of your site, e.g. /blog
-
-title: "Mapping / MTL / Cartographie" 
-# the name of your site, e.g. ACME Corp.
-description: "Un projet sur la crise du logement à Montréal. / A project about the Montréal housing crisis."
+url: "https://mapping-mtl-cartographie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Mapping / MTL / Cartographie" # the name of your site, e.g. ACME Corp.
+description: "Un project de la crise de logement à Montréal. A project about the Montréal housing crisis."
