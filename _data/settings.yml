@@ -1,7 +1,7 @@
 menu:
-- {name: 'air bnb', url: '/airbnb'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'airbnb', url: '/airbnb'}
+- {name: 'census', url: '/census'}
+- {name: 'rent', url: '/rent'}
 - {name: 'contact', url: '/contact'}
 
 people:
