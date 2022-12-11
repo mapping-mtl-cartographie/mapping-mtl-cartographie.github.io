@@ -1,7 +1,6 @@
---
-layout: page
-title: "Cartographier AirBnB/Mapping Air BnB"
-permalink: /airbnb
+---
+layout: home
+title: "Cartographier Air BnB/Mapping Air BnB"
 ---
 
 Cats cats cats cats
