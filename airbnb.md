@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Cartographier Air BnB/Mapping Air BnB"
 ---
 
