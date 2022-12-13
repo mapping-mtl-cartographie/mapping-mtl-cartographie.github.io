@@ -21,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', email: 'mappingmtlcartographie@gmail.com', image: 'assets/img/contact.jpg'}
+- {email: 'mappingmtlcartographie à gmail point com', image: 'assets/img/contact.jpg'}
