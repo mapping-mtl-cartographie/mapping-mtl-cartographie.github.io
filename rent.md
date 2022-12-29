@@ -7,7 +7,7 @@ This shows the differences in rent as calculated by the
 year, there are years with “NA” values.
 
 <iframe id = "cmhc mtl rent"
-        width = "100%"
+        width = "75%"
         height = "100%"
         src = "https://mapping-mtl-cartographie.github.io/static/leaflet/cmhc_mtl_rent.html" >
   </iframe>
