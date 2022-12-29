@@ -6,9 +6,5 @@ This shows the differences in rent as calculated by the
 [CMHC](https://www.cmhc-schl.gc.ca/). As not all data is collected each
 year, there are years with “NA” values.
 
-
-<iframe src = "https://rpubs.com/mapping-mtl-cartographie/cmhc_mtl_rent">
-</iframe>
-
 <iframe src = "https://mapping-mtl-cartographie.github.io/static/leaflet/cmhc_mtl_rent.html">
   </iframe>
