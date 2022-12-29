@@ -2,8 +2,8 @@
 layout: page
 title: "Cartographier Air BnB/Mapping Air BnB"
 ---
-<h1>1. Comment le nombre d'Air BnB dans mon quartier a-t-il évolué au fil du temps ?
-  <br>1. How has the number of Air BnBs in my neighborhood changed over time?</h1>
+<h2>1. Comment le nombre d'Air BnB dans mon quartier a-t-il évolué au fil du temps ?
+  <br>1. How has the number of Air BnBs in my neighborhood changed over time?</h2>
 
 Cette carte montre les Air BnB au fil du temps dans des quartiers particuliers de Montréal. Merci à <a href="http://insideairbnb.com/">Inside AirBnB</a> pour son soutien dans la collecte et le partage des données Air BnB. Visitez leur site Web pour en savoir plus sur leur projet et <a href="http://insideairbnb.com/donate">faites un don</a> si vous le pouvez.
 
