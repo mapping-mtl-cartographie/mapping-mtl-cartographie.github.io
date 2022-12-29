@@ -8,6 +8,5 @@ year, there are years with “NA” values.
 
 <!-- embedding via directions here: https://lauriebaker.rbind.io/post/where_work/ -->
 
-<iframe seamless "" width = "100%" height = "500"
-class="shortcode-iframe" src="/leaflet/cmhc_mtl_rent.html">
+<iframe src="/leaflet/cmhc_mtl_rent.html">
 </iframe>
