@@ -2,4 +2,5 @@
 layout: page
 title: "Census"
 ---
-census mapping over time goes here
+La cartographie du recensement au fil du temps sera bientôt dispo !
+Census mapping over time coming soon!
